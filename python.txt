@@ -1,12 +1,3 @@
-sum=0 
-for i in range(1,101):
-sum+=i
-print(sum
-sd ad af af ad)
+asdasd
+asd
 af
- 
-fda d
-ad 
-ad 
-sa 
-
