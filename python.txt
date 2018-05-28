@@ -1,4 +1,12 @@
 sum=0 
 for i in range(1,101):
 sum+=i
-print(sum)
+print(sum
+sd ad af af ad)
+af
+ 
+fda d
+ad 
+ad 
+sa 
+
